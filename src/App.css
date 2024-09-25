@@ -1,0 +1,10 @@
+body {
+    background-image: url('/public/Brown\ Aesthetic\ Desktop\ Wallpaper.jpg'); /* Path to your image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
